@@ -27,7 +27,7 @@ body {
   position: absolute;
   width: 15px;
   height: 15px;
-  background: white;
+  background: rgb(248, 245, 226);
   border-radius: 50%;
   z-index: 10000;
 }
@@ -69,14 +69,14 @@ body {
   width: 6px;
   height: 80px;
   content: "";
-  background-color: rgb(255, 218, 224);
+  background-color: rgb(32, 55, 186);
   z-index: 10;
   position: absolute;
 }
 
 .mn:before {
   content: "";
-  background-color: white;
+  background-color: rgb(252, 81, 217);
   width: 4px;
   height: 90px;
   position: absolute;
@@ -89,5 +89,5 @@ body {
   width: 2px;
   height: 140px;
   z-index: 12;
-  background-color: aqua;
+  background-color: rgb(152, 234, 64);
 }
